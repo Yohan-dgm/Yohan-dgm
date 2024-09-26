@@ -20,18 +20,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=👀+I'm+interested+in+Web+Development!;🌱+Currently+learning+React+%26+Next.js...;💼+Looking+for+cool+collaborations!;📫+Reach+me+at+your-email@example.com!+😄" alt="Typing SVG">
 </p>
 
-<!-- Add more personalized information -->
 ### 🚀 About Me
 - 🌱 I’m currently learning **React**, **Next.js**, and **Cloud Computing**.
 - 👀 I’m interested in **web development**, **UI/UX design**, and **open-source projects**.
 - 💞️ I’m looking to collaborate on exciting web projects that focus on **user experience** and **innovation**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | Email: your-email@example.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | Email: your-yohan.dgm@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and coding challenges in my free time!
 
-<!-- Add a cool "snake" animation that eats GitHub contributions -->
+<!-- Replaced snake animation with animated GitHub streak stats -->
 <p align="center">
-  <img src="https://github.com/Yohan-dgm/Yohan-dgm/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohan-dgm&theme=tokyonight" alt="Yohan's GitHub streak stats">
 </p>
 
 <!-- GitHub Stats -->
