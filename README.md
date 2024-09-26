@@ -37,4 +37,49 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **React**, **Next.js**, and **Cloud Computing**.
 - 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Open-Source Projects**.
-- 💼
+- 💼 I’m looking to collaborate on exciting projects involving **innovation** and **creative solutions**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | Email: your-email@example.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles, hacking together tools, and engaging in coding challenges!
+
+<!-- Add GitHub trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yohan-dgm&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
+
+<!-- GitHub Streak Stats with Hover Effect -->
+<p align="center">
+  <a href="https://github.com/Yohan-dgm">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohan-dgm&theme=tokyonight&background=0d1117&stroke=0000&ring=F7A700&fire=F7A700&currStreakNum=ffffff" alt="GitHub Streak Stats">
+  </a>
+</p>
+
+<!-- Removed GitHub Activity Graph and added a more stable contribution calendar -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yohan-dgm&show_icons=true&theme=tokyonight" width="400" alt="Yohan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan-dgm&layout=compact&theme=tokyonight" width="400" alt="Top Languages">
+</p>
+
+### 🎨 Fun with Code
+<!-- Removed the coding animation and replaced it with a stable animated avatar -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Coding Avatar">
+</p>
+
+### 💼 Latest Projects
+<!-- Dynamic list of latest GitHub projects -->
+<p align="center">
+  <a href="https://github.com/Yohan-dgm/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yohan-dgm&repo=project1&theme=tokyonight" alt="Project 1">
+  </a>
+  <a href="https://github.com/Yohan-dgm/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yohan-dgm&repo=project2&theme=tokyonight" alt="Project 2">
+  </a>
+</p>
+
+<!-- Footer with an animated wave and contact info -->
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Wave"/>
+</p>
+
+<h3 align="center">Let's connect and build something awesome!</h3>
