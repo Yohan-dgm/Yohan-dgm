@@ -8,17 +8,6 @@
   <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/rocket.gif" width="200" height="200" alt="Rocket Launch">
 </p>
  
-<p align="center">
-  <a href="https://github.com/Yohan-dgm">
-    <img src="https://img.shields.io/github/followers/Yohan-dgm?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-me!-orange?style=flat-square&logo=gmail" alt="Email Badge">
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/twitter/follow/your-handle?style=social" alt="Twitter Follow">
-  </a>
-</p>
 
 ### 👨‍💻 Tech Stack & Tools
 <!-- Icons with hover effects -->
@@ -50,21 +39,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Coding Avatar">
 </p>
-
-### 💼 Latest Projects
-<!-- Dynamic list of latest GitHub projects -->
-<p align="center">
-  <a href="https://github.com/Yohan-dgm/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yohan-dgm&repo=project1&theme=tokyonight" alt="Project 1">
-  </a>
-  <a href="https://github.com/Yohan-dgm/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yohan-dgm&repo=project2&theme=tokyonight" alt="Project 2">
-  </a>
-</p>
-
-<!-- Footer with an animated wave and contact info -->
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Wave"/>
-</p>
-
+ 
 <h3 align="center">Let's connect and build something awesome!</h3>
