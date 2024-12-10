@@ -8,8 +8,7 @@
   <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/rocket.gif" width="200" height="200" alt="Rocket Launch">
 </p>
  
-
-### 👨‍💻 Tech Stack & Tools
+ 
 <!-- Icons with hover effects -->
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" style="padding:10px;"/>
