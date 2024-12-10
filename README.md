@@ -7,9 +7,7 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/rocket.gif" width="200" height="200" alt="Rocket Launch">
 </p>
-
-<h1 align="center" style="background: -webkit-linear-gradient(#F7A700, #36BCF7); -webkit-background-clip: text; color: transparent;">About Me 🚀</h1>
-
+ 
 <p align="center">
   <a href="https://github.com/Yohan-dgm">
     <img src="https://img.shields.io/github/followers/Yohan-dgm?label=Follow&style=social" alt="GitHub Followers">
