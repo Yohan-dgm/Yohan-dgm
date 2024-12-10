@@ -33,20 +33,7 @@
   <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" title="AWS" style="padding:10px;"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" style="padding:10px;"/>
 </p>
-
-### 🚀 About Me
-- 🌱 I’m currently learning **React**, **Next.js**, and **Cloud Computing**.
-- 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Open-Source Projects**.
-- 💼 I’m looking to collaborate on exciting projects involving **innovation** and **creative solutions**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | Email: yohan.dgm@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles, hacking together tools, and engaging in coding challenges!
-
-<!-- Add GitHub trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yohan-dgm&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
+ 
 <!-- GitHub Streak Stats with Hover Effect -->
 <p align="center">
   <a href="https://github.com/Yohan-dgm">
